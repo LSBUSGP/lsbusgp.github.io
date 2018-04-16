@@ -1,11 +1,8 @@
-## Welcome to the LSBU Specialist Game Programming GitHub repository
+Welcome to the LSBU Specialisms: Game Programming GitHub repository
 
-# What are game programming specialisations?
-
-Here are some examples of game programming specialisms:
-* engine programming
-* graphics programming
-* audio programming
-* script engine programming
-* A.I.
-* build tools
+# Notes
+* how I got into game programming
+* a day in the life of a game programmer
+* questions and answers
+* source control
+* create a GitHub account
