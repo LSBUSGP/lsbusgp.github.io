@@ -6,3 +6,4 @@ Welcome to the LSBU Specialisms: Game Programming GitHub repository
 * questions and answers
 * source control
 * create a GitHub account
+* exercise
