@@ -23,3 +23,7 @@ Welcome to the LSBU Specialisms: Game Programming GitHub repository
 * programming by intention
 * test first programming
 * score ten pin bowling
+
+# Notes Week 4
+* saving game state
+* auto save problems
