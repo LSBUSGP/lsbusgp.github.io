@@ -18,3 +18,7 @@ Welcome to the LSBU Specialisms: Game Programming GitHub repository
 * object oriented programming
 * arranging your data (lifetime)
 * arranging your code (law of Demeter)
+
+# Notes Week 3
+* programming by intention
+* test first programming
