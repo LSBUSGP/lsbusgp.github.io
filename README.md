@@ -26,4 +26,8 @@ Welcome to the LSBU Specialisms: Game Programming GitHub repository
 
 # Notes Week 4
 * saving game state
+* PlayerPrefs
+* JSON format
+* encryption
+* custom file format
 * auto save problems
