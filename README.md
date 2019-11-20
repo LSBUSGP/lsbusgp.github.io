@@ -30,4 +30,6 @@ Welcome to the LSBU Specialisms: Game Programming GitHub repository
 * JSON format
 * encryption
 * custom file format
-* auto save problems
+* auto save problems[^1]
+
+[^1]: test footnote.
